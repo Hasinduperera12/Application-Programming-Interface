@@ -39,5 +39,22 @@ Alternatively, the book distributor could provide an API to check stock availabi
 
 In short, APIs let you open up access to your resources while maintaining security and control. How you open access and to whom is up to you. API security is all about good API management, which includes the use of an API gateway. Connecting to APIs, and creating applications that consume the data or functionality exposed by APIs, can be done with a distributed integration platform that connects everything—including legacy systems, and the Internet of Things (IoT).
 
+### Innovating with APIs
 
+Exposing your APIs to partners or the public can:
 
+- Create new revenue channels or extend existing ones.
+- Expand the reach of your brand.
+- Facilitate open innovation or improved efficiency through external development and collaboration.
+
+Sounds great, right? But how can APIs do all that?
+
+Let’s return to the example of the book distributing company.
+
+Suppose one of the company's partners develops an app that helps people find books on bookstore shelves. This improved experience brings more shoppers to the bookstore—the distributor's customer—and extends an existing revenue channel.
+
+Maybe a third party uses a public API to develop an app that lets people buy books directly from the distributor, instead of from a store. This opens a new revenue channel for the book distributor.
+
+Sharing APIs―with select partners or the whole world―can have positive effects. Each partnership extends your brand recognition beyond your company’s marketing efforts. Opening technology to everyone, as with a public API, encourages developers to build an ecosystem of apps around your API. More people using your technology means more people are likely to do business with you.
+
+Making technology public can lead to novel and unexpected outcomes. These outcomes sometimes disrupt entire industries. For our book distributing company, new firms―a book borrowing service, for example―could fundamentally change the way they do business. Partner and public APIs help you use the creative efforts of a community larger than your team of internal developers. New ideas can come from anywhere, and companies need to be aware of changes in their market and ready to act on them. APIs can help.
