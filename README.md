@@ -6,7 +6,6 @@
   
 API stands for Application Programming Interface. In the context of APIs, the word Application refers to any software with a distinct function. Interface can be thought of as a contract of service between two applications. This contract defines how the two communicate with each other using requests and responses.
 
-
 </div>
 
 ## How do APIs work?
@@ -58,3 +57,10 @@ Maybe a third party uses a public API to develop an app that lets people buy boo
 Sharing APIs―with select partners or the whole world―can have positive effects. Each partnership extends your brand recognition beyond your company’s marketing efforts. Opening technology to everyone, as with a public API, encourages developers to build an ecosystem of apps around your API. More people using your technology means more people are likely to do business with you.
 
 Making technology public can lead to novel and unexpected outcomes. These outcomes sometimes disrupt entire industries. For our book distributing company, new firms―a book borrowing service, for example―could fundamentally change the way they do business. Partner and public APIs help you use the creative efforts of a community larger than your team of internal developers. New ideas can come from anywhere, and companies need to be aware of changes in their market and ready to act on them. APIs can help.
+
+### Common API examples
+
+Because APIs allow companies to open up access to their resources while maintaining security and control, they have become a valuable aspect of modern business. Here are some popular examples of application programming interfaces you may encounter:
+
+- Universal logins
+  A popular API example is the function that enables people to log in to websites by using their Facebook, Twitter, or Google profile login details. This convenient feature allows any website to leverage an API from one of the more popular services to quickly authenticate the user, saving them the time and hassle of setting up a new profile for every website service or new membership.
